@@ -1,0 +1,3 @@
+http://www.golang-book.com/books/intro
+
+https://gobyexample.com/
